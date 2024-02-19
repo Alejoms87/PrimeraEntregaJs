@@ -1,4 +1,4 @@
-//Juego del dado
+//Juego del dado en Js -- Primera Pre-entrega
 
 let seguirJugando = true 
 
