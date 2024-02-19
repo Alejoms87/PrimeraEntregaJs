@@ -8,6 +8,8 @@ while(seguirJugando){
     let correctas_usuario = 0
     let correctas_maquina = 0
     let empates = 0
+    
+
 
     alert("Bienvenido al juego de tirar el dado, por favor ingrese una opcion")
     let opciones = prompt("Ingrese 1 para jugar con su nombre, Ingrese 2 para jugar como anonimo , o Ingrese  'salir' para salir del juego")
